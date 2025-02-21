@@ -5,7 +5,7 @@ import io
 from time import strftime, gmtime
 
 # PUT YOUR Cookies.binarycookies FILE PATH HERE
-FilePath = 'C:/Users/90375/Desktop/Cookies.binarycookies'
+FilePath = 'C:/Users/xxx/Desktop/Cookies.binarycookies'
 
 try:
     binaryFile = open(FilePath, 'rb')
